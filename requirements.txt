@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+psycopg[binary,pool]>=3.1
+python-dotenv>=1.0
+# Solo para scripts/cargar_datos.py y scripts/generar_evidencias.py
+pyogrio>=0.7
+requests>=2.31
