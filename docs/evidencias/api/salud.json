@@ -1,0 +1,8 @@
+{
+  "postgis": "3.7 USE_GEOS=1 USE_PROJ=1 USE_STATS=1",
+  "base_de_datos": "sig_cauca",
+  "departamentos": 1,
+  "municipios": 42,
+  "fuentes": 18,
+  "veredas": 2019
+}

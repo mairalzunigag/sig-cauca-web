@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 99
+      },
+      "properties": {
+        "id_vereda": 5,
+        "nombre_vereda": "EL SENDERO",
+        "nombre_municipio": "Popayán",
+        "distancia_m": 821.7
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 232
+      },
+      "properties": {
+        "id_vereda": 3,
+        "nombre_vereda": "SAMANGA",
+        "nombre_municipio": "Popayán",
+        "distancia_m": 1291.1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 188
+      },
+      "properties": {
+        "id_vereda": 13,
+        "nombre_vereda": "SAN BERNARDINO",
+        "nombre_municipio": "Popayán",
+        "distancia_m": 1706.7
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 91
+      },
+      "properties": {
+        "id_vereda": 4,
+        "nombre_vereda": "PUELENJE",
+        "nombre_municipio": "Popayán",
+        "distancia_m": 2041.2
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 191
+      },
+      "properties": {
+        "id_vereda": 1585,
+        "nombre_vereda": "SANTA BARBARA",
+        "nombre_municipio": "Popayán",
+        "distancia_m": 2531.6
+      },
+      "id": 1585
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 38
+      },
+      "properties": {
+        "id_vereda": 1933,
+        "nombre_vereda": "ANTON MORENO",
+        "nombre_municipio": "Timbío",
+        "distancia_m": 2779.6
+      },
+      "id": 1933
+    }
+  ],
+  "centro": {
+    "lon": -76.606,
+    "lat": 2.444
+  },
+  "radio_m": 3000.0,
+  "total": 6
+}

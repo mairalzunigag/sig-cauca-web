@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SIG Web del Cauca</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <aside id="panel">
+    <header>
+      <h1>SIG Web del Cauca</h1>
+      <p>Municipios y veredas · PostgreSQL/PostGIS + FastAPI + Leaflet</p>
+      <p id="estado-bd" class="estado">Conectando con la API…</p>
+    </header>
+
+    <nav id="tabs" role="tablist">
+      <button class="tab activa" data-tab="t-consulta">Consulta</button>
+      <button class="tab" data-tab="t-espacial">Espacial</button>
+      <button class="tab" data-tab="t-filtros">Filtros</button>
+      <button class="tab" data-tab="t-calidad">Calidad</button>
+    </nav>
+
+    <!-- F1 + F2 -->
+    <section id="t-consulta" class="seccion activa">
+      <h2>Municipios <small>F1 · F2</small></h2>
+      <p class="ayuda">Haz clic en un municipio y pulsa <b>Consultar detalle</b>. El color indica el número de veredas.</p>
+      <h2>Buscar vereda <small>F2</small></h2>
+      <form id="form-buscar">
+        <input id="q" type="search" placeholder="Nombre de la vereda (sin tildes está bien)" minlength="2" maxlength="60" required>
+        <button type="submit">Buscar</button>
+      </form>
+      <ul id="resultados-busqueda" class="lista"></ul>
+      <div id="ficha" class="ficha" hidden></div>
+    </section>
+
+    <!-- F3 -->
+    <section id="t-espacial" class="seccion">
+      <h2>Consulta espacial <small>F3</small></h2>
+      <p class="ayuda">Elige la operación y haz clic en el mapa.</p>
+      <label class="opcion"><input type="radio" name="modo" value="punto" checked>
+        <span><b>¿Qué hay aquí?</b> Municipio y vereda que contienen el punto <code>ST_Covers</code></span></label>
+      <label class="opcion"><input type="radio" name="modo" value="cerca">
+        <span><b>Veredas cercanas.</b> Dentro de un radio, ordenadas por distancia <code>ST_DWithin</code> · <code>ST_Distance</code></span></label>
+      <label class="campo">Radio: <output id="radio-val">5</output> km
+        <input id="radio" type="range" min="0.5" max="50" step="0.5" value="5"></label>
+      <button id="btn-limpiar-espacial" type="button" class="secundario">Limpiar resultado</button>
+      <div id="res-espacial" class="ficha" hidden></div>
+    </section>
+
+    <!-- F4 -->
+    <section id="t-filtros" class="seccion">
+      <h2>Filtro combinado de veredas <small>F4</small></h2>
+      <form id="form-filtros">
+        <label>Municipio <select id="f-mun"><option value="">Todos</option></select></label>
+        <label>Fuente del límite <select id="f-fte"><option value="">Todas</option></select></label>
+        <label>Vigencia <select id="f-vig"><option value="">Todas</option></select></label>
+        <div class="fila">
+          <label>Área mín. (ha) <input id="f-amin" type="number" min="0" step="any"></label>
+          <label>Área máx. (ha) <input id="f-amax" type="number" min="0" step="any"></label>
+        </div>
+        <label class="check"><input id="f-cp" type="checkbox"> Solo con centro poblado</label>
+        <div class="fila">
+          <button type="submit">Aplicar</button>
+          <button type="button" id="btn-limpiar-filtros" class="secundario">Limpiar</button>
+        </div>
+      </form>
+      <div id="res-filtros" class="ficha" hidden></div>
+    </section>
+
+    <!-- F4 (calidad) -->
+    <section id="t-calidad" class="seccion">
+      <h2>Calidad espacial <small>F4</small></h2>
+      <p class="ayuda">Veredas cuyo punto interior cae fuera del municipio declarado en sus atributos
+        (<code>ST_PointOnSurface</code> + <code>ST_Covers</code>).</p>
+      <button id="btn-calidad" type="button">Detectar inconsistencias</button>
+      <ul id="lista-calidad" class="lista"></ul>
+      <h2>Ranking de municipios</h2>
+      <div class="tabla-wrap"><table id="tabla-ranking"><thead>
+        <tr><th>Municipio</th><th>Veredas</th><th>Área media (ha)</th><th>% C.P.</th></tr></thead><tbody></tbody></table></div>
+    </section>
+
+    <details id="registro">
+      <summary>Registro de peticiones HTTP</summary>
+      <ol id="log"></ol>
+    </details>
+  </aside>
+
+  <main id="mapa"></main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/mapa.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

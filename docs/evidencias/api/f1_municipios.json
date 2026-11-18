@@ -1,0 +1,593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 438
+      },
+      "properties": {
+        "cod_municipio": "19001",
+        "nombre_municipio": "Popayán",
+        "altitud_msnm": 1738,
+        "n_veredas": 23
+      },
+      "id": "19001"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 165
+      },
+      "properties": {
+        "cod_municipio": "19022",
+        "nombre_municipio": "Almaguer",
+        "altitud_msnm": 2200,
+        "n_veredas": 66
+      },
+      "id": "19022"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 228
+      },
+      "properties": {
+        "cod_municipio": "19050",
+        "nombre_municipio": "Argelia",
+        "altitud_msnm": 1750,
+        "n_veredas": 81
+      },
+      "id": "19050"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 252
+      },
+      "properties": {
+        "cod_municipio": "19075",
+        "nombre_municipio": "Balboa",
+        "altitud_msnm": 1500,
+        "n_veredas": 73
+      },
+      "id": "19075"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 403
+      },
+      "properties": {
+        "cod_municipio": "19100",
+        "nombre_municipio": "Bolívar",
+        "altitud_msnm": 1700,
+        "n_veredas": 13
+      },
+      "id": "19100"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 496
+      },
+      "properties": {
+        "cod_municipio": "19110",
+        "nombre_municipio": "Buenos Aires",
+        "altitud_msnm": 1200,
+        "n_veredas": 46
+      },
+      "id": "19110"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 456
+      },
+      "properties": {
+        "cod_municipio": "19130",
+        "nombre_municipio": "Cajibío",
+        "altitud_msnm": 1800,
+        "n_veredas": 45
+      },
+      "id": "19130"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 347
+      },
+      "properties": {
+        "cod_municipio": "19137",
+        "nombre_municipio": "Caldono",
+        "altitud_msnm": 1700,
+        "n_veredas": 85
+      },
+      "id": "19137"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 326
+      },
+      "properties": {
+        "cod_municipio": "19142",
+        "nombre_municipio": "Caloto",
+        "altitud_msnm": 1100,
+        "n_veredas": 55
+      },
+      "id": "19142"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 181
+      },
+      "properties": {
+        "cod_municipio": "19212",
+        "nombre_municipio": "Corinto",
+        "altitud_msnm": 1052,
+        "n_veredas": 43
+      },
+      "id": "19212"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 731
+      },
+      "properties": {
+        "cod_municipio": "19256",
+        "nombre_municipio": "El Tambo",
+        "altitud_msnm": 1750,
+        "n_veredas": 17
+      },
+      "id": "19256"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 96
+      },
+      "properties": {
+        "cod_municipio": "19290",
+        "nombre_municipio": "Florencia",
+        "altitud_msnm": 1500,
+        "n_veredas": 20
+      },
+      "id": "19290"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 178
+      },
+      "properties": {
+        "cod_municipio": "19300",
+        "nombre_municipio": "Guachené",
+        "altitud_msnm": 1000,
+        "n_veredas": 22
+      },
+      "id": "19300"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 376
+      },
+      "properties": {
+        "cod_municipio": "19318",
+        "nombre_municipio": "Guapi",
+        "altitud_msnm": 4,
+        "n_veredas": 20
+      },
+      "id": "19318"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 309
+      },
+      "properties": {
+        "cod_municipio": "19355",
+        "nombre_municipio": "Inzá",
+        "altitud_msnm": 1800,
+        "n_veredas": 76
+      },
+      "id": "19355"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 214
+      },
+      "properties": {
+        "cod_municipio": "19364",
+        "nombre_municipio": "Jambaló",
+        "altitud_msnm": 2250,
+        "n_veredas": 35
+      },
+      "id": "19364"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 294
+      },
+      "properties": {
+        "cod_municipio": "19392",
+        "nombre_municipio": "La Sierra",
+        "altitud_msnm": 1800,
+        "n_veredas": 51
+      },
+      "id": "19392"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 293
+      },
+      "properties": {
+        "cod_municipio": "19397",
+        "nombre_municipio": "La Vega",
+        "altitud_msnm": 2200,
+        "n_veredas": 101
+      },
+      "id": "19397"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 734
+      },
+      "properties": {
+        "cod_municipio": "19418",
+        "nombre_municipio": "López",
+        "altitud_msnm": 390,
+        "n_veredas": 26
+      },
+      "id": "19418"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 334
+      },
+      "properties": {
+        "cod_municipio": "19450",
+        "nombre_municipio": "Mercaderes",
+        "altitud_msnm": 1156,
+        "n_veredas": 76
+      },
+      "id": "19450"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 320
+      },
+      "properties": {
+        "cod_municipio": "19455",
+        "nombre_municipio": "Miranda",
+        "altitud_msnm": 1094,
+        "n_veredas": 26
+      },
+      "id": "19455"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 430
+      },
+      "properties": {
+        "cod_municipio": "19473",
+        "nombre_municipio": "Morales",
+        "altitud_msnm": 1500,
+        "n_veredas": 61
+      },
+      "id": "19473"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 98
+      },
+      "properties": {
+        "cod_municipio": "19513",
+        "nombre_municipio": "Padilla",
+        "altitud_msnm": 1000,
+        "n_veredas": 6
+      },
+      "id": "19513"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 598
+      },
+      "properties": {
+        "cod_municipio": "19517",
+        "nombre_municipio": "Páez",
+        "altitud_msnm": 1400,
+        "n_veredas": 98
+      },
+      "id": "19517"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 461
+      },
+      "properties": {
+        "cod_municipio": "19532",
+        "nombre_municipio": "Patía",
+        "altitud_msnm": 987,
+        "n_veredas": 104
+      },
+      "id": "19532"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 613
+      },
+      "properties": {
+        "cod_municipio": "19533",
+        "nombre_municipio": "Piamonte",
+        "altitud_msnm": 306,
+        "n_veredas": 62
+      },
+      "id": "19533"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 318
+      },
+      "properties": {
+        "cod_municipio": "19548",
+        "nombre_municipio": "Piendamó Tunia",
+        "altitud_msnm": 1865,
+        "n_veredas": 52
+      },
+      "id": "19548"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 165
+      },
+      "properties": {
+        "cod_municipio": "19573",
+        "nombre_municipio": "Puerto Tejada",
+        "altitud_msnm": 1000,
+        "n_veredas": 11
+      },
+      "id": "19573"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 217
+      },
+      "properties": {
+        "cod_municipio": "19585",
+        "nombre_municipio": "Puracé",
+        "altitud_msnm": 2400,
+        "n_veredas": 42
+      },
+      "id": "19585"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 200
+      },
+      "properties": {
+        "cod_municipio": "19622",
+        "nombre_municipio": "Rosas",
+        "altitud_msnm": 1714,
+        "n_veredas": 38
+      },
+      "id": "19622"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 221
+      },
+      "properties": {
+        "cod_municipio": "19693",
+        "nombre_municipio": "San Sebastián",
+        "altitud_msnm": 2100,
+        "n_veredas": 57
+      },
+      "id": "19693"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 450
+      },
+      "properties": {
+        "cod_municipio": "19698",
+        "nombre_municipio": "Santander De Quilichao",
+        "altitud_msnm": 1071,
+        "n_veredas": 46
+      },
+      "id": "19698"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 607
+      },
+      "properties": {
+        "cod_municipio": "19701",
+        "nombre_municipio": "Santa Rosa",
+        "altitud_msnm": 1750,
+        "n_veredas": 43
+      },
+      "id": "19701"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 332
+      },
+      "properties": {
+        "cod_municipio": "19743",
+        "nombre_municipio": "Silvia",
+        "altitud_msnm": 2750,
+        "n_veredas": 83
+      },
+      "id": "19743"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 414
+      },
+      "properties": {
+        "cod_municipio": "19760",
+        "nombre_municipio": "Sotará",
+        "altitud_msnm": 2450,
+        "n_veredas": 39
+      },
+      "id": "19760"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 311
+      },
+      "properties": {
+        "cod_municipio": "19780",
+        "nombre_municipio": "Suárez",
+        "altitud_msnm": 1250,
+        "n_veredas": 66
+      },
+      "id": "19780"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 197
+      },
+      "properties": {
+        "cod_municipio": "19785",
+        "nombre_municipio": "Sucre",
+        "altitud_msnm": 1125,
+        "n_veredas": 31
+      },
+      "id": "19785"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 320
+      },
+      "properties": {
+        "cod_municipio": "19807",
+        "nombre_municipio": "Timbío",
+        "altitud_msnm": 1798,
+        "n_veredas": 56
+      },
+      "id": "19807"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 486
+      },
+      "properties": {
+        "cod_municipio": "19809",
+        "nombre_municipio": "Timbiquí",
+        "altitud_msnm": 10,
+        "n_veredas": 11
+      },
+      "id": "19809"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 214
+      },
+      "properties": {
+        "cod_municipio": "19821",
+        "nombre_municipio": "Toribío",
+        "altitud_msnm": 1700,
+        "n_veredas": 62
+      },
+      "id": "19821"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 349
+      },
+      "properties": {
+        "cod_municipio": "19824",
+        "nombre_municipio": "Totoró",
+        "altitud_msnm": 2600,
+        "n_veredas": 46
+      },
+      "id": "19824"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 154
+      },
+      "properties": {
+        "cod_municipio": "19845",
+        "nombre_municipio": "Villa Rica",
+        "altitud_msnm": 970,
+        "n_veredas": 5
+      },
+      "id": "19845"
+    }
+  ]
+}

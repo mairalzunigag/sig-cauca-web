@@ -1,0 +1,17 @@
+{
+  "cod_municipio": "19001",
+  "nombre_municipio": "Popayán",
+  "nombre_departamento": "Cauca",
+  "altitud_msnm": 1738,
+  "norma_creacion": null,
+  "area_oficial_km2": 480.374,
+  "area_geodesica_km2": 479.244,
+  "perimetro_km": 152.281,
+  "n_veredas": 23,
+  "veredas_por_fuente": [
+    {
+      "nombre_fuente": "DANE",
+      "n_veredas": 23
+    }
+  ]
+}

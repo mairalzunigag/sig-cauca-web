@@ -1,0 +1,710 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 38
+      },
+      "properties": {
+        "id_vereda": 1933,
+        "nombre_vereda": "ANTON MORENO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 101.09
+      },
+      "id": 1933
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 35
+      },
+      "properties": {
+        "id_vereda": 1942,
+        "nombre_vereda": "AVANZADA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 153.36
+      },
+      "id": 1942
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 42
+      },
+      "properties": {
+        "id_vereda": 1962,
+        "nombre_vereda": "BARRO BLANCO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 141.8
+      },
+      "id": 1962
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 40
+      },
+      "properties": {
+        "id_vereda": 1970,
+        "nombre_vereda": "BELLA VISTA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 303.84
+      },
+      "id": 1970
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 38
+      },
+      "properties": {
+        "id_vereda": 1951,
+        "nombre_vereda": "CAMPO ALEGRE",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 160.27
+      },
+      "id": 1951
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 41
+      },
+      "properties": {
+        "id_vereda": 1955,
+        "nombre_vereda": "CAMPO SANO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 374.22
+      },
+      "id": 1955
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 57
+      },
+      "properties": {
+        "id_vereda": 1948,
+        "nombre_vereda": "CRISTALES",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 471.65
+      },
+      "id": 1948
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 40
+      },
+      "properties": {
+        "id_vereda": 1931,
+        "nombre_vereda": "CUCHICAMA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 144.94
+      },
+      "id": 1931
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 34
+      },
+      "properties": {
+        "id_vereda": 1947,
+        "nombre_vereda": "EL ALTILLO ALTO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 103.31
+      },
+      "id": 1947
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 44
+      },
+      "properties": {
+        "id_vereda": 1943,
+        "nombre_vereda": "EL DESCANZO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 254.12
+      },
+      "id": 1943
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 26
+      },
+      "properties": {
+        "id_vereda": 1956,
+        "nombre_vereda": "EL ENCENILLO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 125.74
+      },
+      "id": 1956
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 30
+      },
+      "properties": {
+        "id_vereda": 1961,
+        "nombre_vereda": "EL NARANJAL",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 228.35
+      },
+      "id": 1961
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 37
+      },
+      "properties": {
+        "id_vereda": 1945,
+        "nombre_vereda": "EL PLACER",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 161.08
+      },
+      "id": 1945
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 47
+      },
+      "properties": {
+        "id_vereda": 1971,
+        "nombre_vereda": "EL PORVENIR",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 372.79
+      },
+      "id": 1971
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 38
+      },
+      "properties": {
+        "id_vereda": 1944,
+        "nombre_vereda": "EL RETIRO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 261.43
+      },
+      "id": 1944
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 43
+      },
+      "properties": {
+        "id_vereda": 1953,
+        "nombre_vereda": "EL UVO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 227.19
+      },
+      "id": 1953
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 53
+      },
+      "properties": {
+        "id_vereda": 1930,
+        "nombre_vereda": "HATO NUEVO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 354.52
+      },
+      "id": 1930
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 34
+      },
+      "properties": {
+        "id_vereda": 147,
+        "nombre_vereda": "HATO VIEJO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 209.92
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 42
+      },
+      "properties": {
+        "id_vereda": 1959,
+        "nombre_vereda": "LA BANDA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 339.65
+      },
+      "id": 1959
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 71
+      },
+      "properties": {
+        "id_vereda": 1938,
+        "nombre_vereda": "LA CABAÑA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 435.23
+      },
+      "id": 1938
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 59
+      },
+      "properties": {
+        "id_vereda": 1928,
+        "nombre_vereda": "LA CHORRERA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 368.47
+      },
+      "id": 1928
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 55
+      },
+      "properties": {
+        "id_vereda": 1935,
+        "nombre_vereda": "LA HONDA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 384.0
+      },
+      "id": 1935
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 70
+      },
+      "properties": {
+        "id_vereda": 1950,
+        "nombre_vereda": "LA LAGUNA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 324.26
+      },
+      "id": 1950
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 54
+      },
+      "properties": {
+        "id_vereda": 1934,
+        "nombre_vereda": "LA MARTHICA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 331.57
+      },
+      "id": 1934
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 44
+      },
+      "properties": {
+        "id_vereda": 1939,
+        "nombre_vereda": "LA RIVERA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 197.64
+      },
+      "id": 1939
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 51
+      },
+      "properties": {
+        "id_vereda": 1954,
+        "nombre_vereda": "LAS CRUCES 1",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 179.3
+      },
+      "id": 1954
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 42
+      },
+      "properties": {
+        "id_vereda": 1949,
+        "nombre_vereda": "LAS CRUCES 2",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 161.61
+      },
+      "id": 1949
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 61
+      },
+      "properties": {
+        "id_vereda": 1963,
+        "nombre_vereda": "LAS GUACAS",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 457.75
+      },
+      "id": 1963
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 44
+      },
+      "properties": {
+        "id_vereda": 151,
+        "nombre_vereda": "LAS PIEDRAS",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 231.65
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 30
+      },
+      "properties": {
+        "id_vereda": 1958,
+        "nombre_vereda": "LAS YESCAS",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 193.69
+      },
+      "id": 1958
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 33
+      },
+      "properties": {
+        "id_vereda": 1957,
+        "nombre_vereda": "QUILICHAO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 148.91
+      },
+      "id": 1957
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 28
+      },
+      "properties": {
+        "id_vereda": 1929,
+        "nombre_vereda": "QUINTERO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 225.9
+      },
+      "id": 1929
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 41
+      },
+      "properties": {
+        "id_vereda": 1940,
+        "nombre_vereda": "SACHACOCO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 346.49
+      },
+      "id": 1940
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 74
+      },
+      "properties": {
+        "id_vereda": 1969,
+        "nombre_vereda": "SAMBONI",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 478.56
+      },
+      "id": 1969
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 59
+      },
+      "properties": {
+        "id_vereda": 1968,
+        "nombre_vereda": "SAMBONI BAJO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 388.51
+      },
+      "id": 1968
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 71
+      },
+      "properties": {
+        "id_vereda": 1966,
+        "nombre_vereda": "SAN PEDRITO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 345.93
+      },
+      "id": 1966
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 72
+      },
+      "properties": {
+        "id_vereda": 148,
+        "nombre_vereda": "SAN PEDRO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 390.68
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 64
+      },
+      "properties": {
+        "id_vereda": 146,
+        "nombre_vereda": "SANTA MARIA",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 372.95
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 57
+      },
+      "properties": {
+        "id_vereda": 1937,
+        "nombre_vereda": "SILCE",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 260.27
+      },
+      "id": 1937
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 40
+      },
+      "properties": {
+        "id_vereda": 2017,
+        "nombre_vereda": "TIMBIO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 101.6
+      },
+      "id": 2017
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 57
+      },
+      "properties": {
+        "id_vereda": 2018,
+        "nombre_vereda": "TIMBIO",
+        "nombre_municipio": "Timbío",
+        "nombre_fuente": "DANE",
+        "vigencia": "2017",
+        "tiene_centro_poblado": false,
+        "area_ha": 127.11
+      },
+      "id": 2018
+    }
+  ],
+  "resumen": {
+    "total": 41,
+    "area_total_ha": 10941.4,
+    "area_media_ha": 266.9,
+    "con_centro_poblado": 0
+  },
+  "devueltas": 41,
+  "truncado": false
+}

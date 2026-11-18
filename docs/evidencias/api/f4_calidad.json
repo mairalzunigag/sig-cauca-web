@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 24
+      },
+      "properties": {
+        "id_vereda": 1825,
+        "nombre_vereda": "ALTO CANDELARIA",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 1825
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 49
+      },
+      "properties": {
+        "id_vereda": 451,
+        "nombre_vereda": "BELLA VISTA",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 451
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 36
+      },
+      "properties": {
+        "id_vereda": 464,
+        "nombre_vereda": "CALABOZO",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 464
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 67
+      },
+      "properties": {
+        "id_vereda": 476,
+        "nombre_vereda": "DOS QUEBRADAS",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 476
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 19
+      },
+      "properties": {
+        "id_vereda": 462,
+        "nombre_vereda": "EL AGUACATAL",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 462
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 33
+      },
+      "properties": {
+        "id_vereda": 452,
+        "nombre_vereda": "EL ROBLE",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 452
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 64
+      },
+      "properties": {
+        "id_vereda": 457,
+        "nombre_vereda": "JUAN TAMA",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 457
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 29
+      },
+      "properties": {
+        "id_vereda": 458,
+        "nombre_vereda": "KILOMETRO 48",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 458
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 22
+      },
+      "properties": {
+        "id_vereda": 456,
+        "nombre_vereda": "LA PALMA",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 456
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 14
+      },
+      "properties": {
+        "id_vereda": 455,
+        "nombre_vereda": "LA VEGA CANDELARIA (EL TREBOL)",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 455
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 28
+      },
+      "properties": {
+        "id_vereda": 454,
+        "nombre_vereda": "PATIO BONITO",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 454
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 409
+      },
+      "properties": {
+        "id_vereda": 487,
+        "nombre_vereda": "PULULO",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 487
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 85
+      },
+      "properties": {
+        "id_vereda": 474,
+        "nombre_vereda": "SAN ANTONIO",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 474
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 74
+      },
+      "properties": {
+        "id_vereda": 470,
+        "nombre_vereda": "SAN JOSÉ",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 470
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 67
+      },
+      "properties": {
+        "id_vereda": 453,
+        "nombre_vereda": "SANTA LETICIA",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 453
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 31
+      },
+      "properties": {
+        "id_vereda": 469,
+        "nombre_vereda": "TIJERAS",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 469
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "n_vertices": 46
+      },
+      "properties": {
+        "id_vereda": 461,
+        "nombre_vereda": "YARUMAL",
+        "municipio_declarado": "Puracé",
+        "municipio_real": null,
+        "nombre_fuente": "EOT PURACE CAUCA"
+      },
+      "id": 461
+    }
+  ],
+  "total": 17
+}

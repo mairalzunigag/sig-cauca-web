@@ -1,0 +1,69 @@
+:root{
+  --bg:#f6f8f7; --panel:#fff; --texto:#1c2b2a; --suave:#5b6b69; --borde:#d9e1df;
+  --marca:#0f6b5c; --marca-osc:#0a4d42; --alerta:#c0392b; --acento:#e0a526;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{display:flex;font:14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--texto);background:var(--bg)}
+#panel{width:380px;max-width:44vw;min-width:300px;height:100%;overflow-y:auto;background:var(--panel);border-right:1px solid var(--borde);z-index:2}
+#mapa{flex:1;height:100%}
+header{padding:14px 16px 10px;background:var(--marca-osc);color:#fff}
+header h1{margin:0;font-size:19px}
+header p{margin:2px 0 0;font-size:12px;opacity:.85}
+.estado{margin-top:6px!important;font-weight:600}
+.estado.ok{color:#9ff0c9}.estado.error{color:#ffb4a8}
+#tabs{display:flex;border-bottom:1px solid var(--borde);position:sticky;top:0;background:var(--panel);z-index:3}
+.tab{flex:1;padding:10px 4px;border:0;background:none;font:inherit;font-weight:600;color:var(--suave);cursor:pointer;border-bottom:3px solid transparent}
+.tab.activa{color:var(--marca);border-bottom-color:var(--marca)}
+.seccion{display:none;padding:12px 16px}
+.seccion.activa{display:block}
+h2{font-size:14px;margin:14px 0 6px}
+h2:first-child{margin-top:2px}
+h2 small{font-weight:600;color:var(--marca);background:#e3f2ee;border-radius:4px;padding:1px 6px;margin-left:6px;font-size:11px}
+.ayuda{color:var(--suave);margin:4px 0 10px}
+code{background:#eef3f2;border-radius:3px;padding:0 4px;font-size:12px}
+input,select,button{font:inherit}
+input[type=search],input[type=number],select{width:100%;padding:7px 8px;border:1px solid var(--borde);border-radius:6px;background:#fff}
+button{padding:7px 12px;border:0;border-radius:6px;background:var(--marca);color:#fff;font-weight:600;cursor:pointer}
+button:hover{background:var(--marca-osc)}
+button.secundario{background:#e8eeed;color:var(--texto)}
+button.secundario:hover{background:#d9e1df}
+#form-buscar{display:flex;gap:6px}
+#form-filtros label{display:block;margin-bottom:8px;font-weight:600;font-size:12px;color:var(--suave)}
+#form-filtros label.check{font-weight:400;color:var(--texto)}
+.fila{display:flex;gap:8px;margin-bottom:8px}.fila>*{flex:1}
+.opcion{display:flex;gap:8px;padding:8px;border:1px solid var(--borde);border-radius:8px;margin-bottom:8px;cursor:pointer}
+.opcion:has(input:checked){border-color:var(--marca);background:#f0f8f6}
+.campo{display:block;margin:10px 0;font-weight:600}
+.campo input{width:100%}
+.lista{list-style:none;margin:8px 0 0;padding:0}
+.lista li{padding:7px 9px;border:1px solid var(--borde);border-radius:6px;margin-bottom:5px;cursor:pointer}
+.lista li:hover{background:#eef6f4}
+.lista small{display:block;color:var(--suave)}
+.ficha{margin-top:12px;padding:10px 12px;border:1px solid var(--borde);border-left:4px solid var(--marca);border-radius:6px;background:#fbfdfc}
+.ficha h3{margin:0 0 6px;font-size:15px}
+.ficha dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:2px 10px}
+.ficha dt{color:var(--suave)}.ficha dd{margin:0;font-weight:600;text-align:right}
+.ficha.error{border-left-color:var(--alerta);color:var(--alerta)}
+.tabla-wrap{max-height:300px;overflow:auto;border:1px solid var(--borde);border-radius:6px}
+table{border-collapse:collapse;width:100%;font-size:12px}
+th,td{padding:5px 7px;text-align:right;border-bottom:1px solid var(--borde)}
+th:first-child,td:first-child{text-align:left}
+th{position:sticky;top:0;background:#eef3f2}
+tbody tr{cursor:pointer}tbody tr:hover{background:#eef6f4}
+#registro{margin:14px 16px 20px;font-size:12px;color:var(--suave)}
+#registro summary{cursor:pointer;font-weight:600}
+#log{padding-left:18px;max-height:200px;overflow:auto;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11px;word-break:break-all}
+#log .err{color:var(--alerta)}
+.popup h4{margin:0 0 4px;font-size:14px}
+.popup p{margin:2px 0}
+.popup button{margin-top:6px;padding:5px 9px;font-size:12px}
+.popup button+button{margin-left:4px}
+.leyenda{background:#fff;padding:8px 10px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.25);font-size:12px;line-height:1.5}
+.leyenda i{display:inline-block;width:14px;height:12px;margin-right:6px;vertical-align:-1px;opacity:.85}
+@media (max-width:760px){
+  body{flex-direction:column}
+  #panel{width:100%;max-width:none;height:46%;border-right:0;border-bottom:1px solid var(--borde)}
+  #mapa{height:54%}
+}
+.leaflet-interactive:focus{outline:none}

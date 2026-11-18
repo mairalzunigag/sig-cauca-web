@@ -1,0 +1,15 @@
+{
+  "punto": {
+    "lon": -76.606,
+    "lat": 2.444
+  },
+  "municipio": {
+    "cod_municipio": "19001",
+    "nombre_municipio": "Popayán"
+  },
+  "veredas": {
+    "type": "FeatureCollection",
+    "features": []
+  },
+  "dentro_del_departamento": true
+}

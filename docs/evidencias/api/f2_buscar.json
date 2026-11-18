@@ -1,0 +1,26 @@
+[
+  {
+    "id_vereda": 1,
+    "nombre_vereda": "EL CANELO",
+    "nombre_municipio": "Popayán",
+    "cod_municipio": "19001",
+    "lon": -76.51470004350355,
+    "lat": 2.35071159550003
+  },
+  {
+    "id_vereda": 209,
+    "nombre_vereda": "EL CANELO",
+    "nombre_municipio": "Sotará",
+    "cod_municipio": "19760",
+    "lon": -76.54792255488309,
+    "lat": 2.3336366485000326
+  },
+  {
+    "id_vereda": 613,
+    "nombre_vereda": "EL CANELO",
+    "nombre_municipio": "Páez",
+    "cod_municipio": "19517",
+    "lon": -75.8853408922522,
+    "lat": 2.6448774690000505
+  }
+]
